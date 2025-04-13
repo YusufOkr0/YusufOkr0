@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yusuf</h1>
 
-<!--
-**YusufOkr0/YusufOkr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Software Engineering student <br>
+  💻 Currently passionate about backend
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I work with:
+- Java (Spring Boot, JavaFX, JDBC)
+- Redis, Kafka
+- C# (.NET)
+- PostgreSQL
+- Docker
+- Git & GitHub
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
