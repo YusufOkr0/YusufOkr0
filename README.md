@@ -9,7 +9,8 @@
 
 ### 🛠️ Technologies I work with:
 - Java (Spring Boot, JavaFX, JDBC)
-- Redis, Kafka
+- Redis
+- Kafka
 - C# (.NET)
 - PostgreSQL
 - Docker
