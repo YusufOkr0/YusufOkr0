@@ -8,14 +8,16 @@
 ---
 
 ### 🛠️ Technologies I work with:
-- Java (Spring Boot, JavaFX, JDBC)
+- Java
+- C#
 - Redis
 - Kafka
-- C# (.NET)
+- OpenSearch
 - PostgreSQL
 - Docker
+- Spring Boot
+- .Net
 - Git & GitHub
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
